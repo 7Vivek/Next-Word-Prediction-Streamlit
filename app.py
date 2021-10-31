@@ -2,9 +2,7 @@ import os
 import streamlit as st
 import torch
 import string
-import pynput
 from transformers import BertTokenizer, BertForMaskedLM
-from pynput import keyboard
 
 st.set_page_config(page_title='Next Word Prediction Model', page_icon=None, layout='centered', initial_sidebar_state='auto')
 
