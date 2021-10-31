@@ -75,7 +75,7 @@ try:
   	answer.append(i)
   answer_as_string = "    ".join(answer)
   st.text_area("Predicted List is Here",answer_as_string,key="predicted_list") 
-  st.image('https://img.favpng.com/12/9/24/computer-keyboard-macintosh-magic-mouse-bluetooth-apple-wireless-keyboard-png-favpng-s46GZw0XuJsubefwSV6xDhrFt.jpg',use_column_width=True)
+  st.image('https://freepngimg.com/thumb/keyboard/161270-white-keyboard-free-download-png-hq.png',use_column_width=True)
   st.markdown("<h6 style='text-align: center; color: #808080;'>Created By <a href='https://github.com/7Vivek'>Vivek</a> - Checkout complete project <a href='https://github.com/7Vivek/Next-Word-Prediction-Streamlit'>here</a></h6>", unsafe_allow_html=True)
 
 except Exception as e:
