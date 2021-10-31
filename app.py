@@ -56,7 +56,7 @@ def get_prediction_eos(input_text):
 try:
 
   st.markdown("<h1 style='text-align: center;'>Next Word Prediction</h1>", unsafe_allow_html=True)
-  st.markdown("<h4 style='text-align: center; color: #B2BEB5;'><i>Keywords  : BertTokenizer, BertForMaskedLM, Pynput, Pytorch</i></h4>", unsafe_allow_html=True)
+  st.markdown("<h4 style='text-align: center; color: #B2BEB5;'><i>Keywords  : BertTokenizer, BertForMaskedLM, Pytorch</i></h4>", unsafe_allow_html=True)
 
   st.sidebar.text("Next Word Prediction Model")
   top_k = st.sidebar.slider("Select How many words do you need", 1 , 25, 1) #some times it is possible to have less words
@@ -75,7 +75,7 @@ try:
   	answer.append(i)
   answer_as_string = "    ".join(answer)
   st.text_area("Predicted List is Here",answer_as_string,key="predicted_list") 
-  st.image('https://www.bleujour.com/wp-content/uploads/2019/02/backlight-keyboard.gif',use_column_width=True)
+  st.image('https://img.favpng.com/12/9/24/computer-keyboard-macintosh-magic-mouse-bluetooth-apple-wireless-keyboard-png-favpng-s46GZw0XuJsubefwSV6xDhrFt.jpg',use_column_width=True)
   st.markdown("<h6 style='text-align: center; color: #808080;'>Created By <a href='https://github.com/7Vivek'>Vivek</a> - Checkout complete project <a href='https://github.com/7Vivek/Next-Word-Prediction-Streamlit'>here</a></h6>", unsafe_allow_html=True)
 
 except Exception as e:
