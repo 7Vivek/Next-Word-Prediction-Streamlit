@@ -12,14 +12,13 @@
 ![Relative date](https://img.shields.io/date/1635734066?color=1c80f6)
 ![GitHub top language](https://img.shields.io/github/languages/top/7Vivek/Next-Word-Prediction-Streamlit?color=ffff66)
 ![GitHub language count](https://img.shields.io/github/languages/count/7Vivek/Next-Word-Prediction-Streamlit?color=04e2b5)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
 <br>
   
 <h2 align = "center"> 🎬 Project Demo </h2>
 <h3 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py">Demo</a></h3>
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
+[![Streamlit App](https://img.shields.io/badge/Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
 </div>
 
 <h2> 🛠️ Requirements </h2>
@@ -49,8 +48,14 @@ and then open a link
 
 <h2> 🧩 Contributors </h2>
 
-[![LinkedIn](https://img.shields.io/badge/VivekLimbad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-limbad-412667215/)
-[![GitHub](https://img.shields.io/badge/VivekLimbad-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7Vivek)
+[![LinkedIn](https://img.shields.io/badge/Patil_Khushabu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushabu-patil-44531b147)
+<br>
+[![LinkedIn](https://img.shields.io/badge/Pawar_Soham-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-pawar-6821ab140)
+<br>
+[![LinkedIn](https://img.shields.io/badge/Thirki_Megha-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/megha-thirki-51a217180)
+<br>
+[![LinkedIn](https://img.shields.io/badge/Vivek_Limbad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-limbad-412667215/)
+[![GitHub](https://img.shields.io/badge/Vivek_Limbad-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7Vivek)
 
 
 
