@@ -13,11 +13,20 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/7Vivek/Next-Word-Prediction-Streamlit?color=ffff66)
 ![GitHub language count](https://img.shields.io/github/languages/count/7Vivek/Next-Word-Prediction-Streamlit?color=04e2b5)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
-</div>
-
+<br>
+  
 <h2 align = "center"> 🎬 Project Demo </h2>
 <h3 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py">Demo</a></h3>
 
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
+</div>
+
+<h2> 🛠️ Requirements </h2>
+
+- Pynput
+- Streamlit
+- Torch
+- Transformers
+
