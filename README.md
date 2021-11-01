@@ -18,6 +18,8 @@
 <h2 align = "center"> 🎬 Project Demo </h2>
 <h3 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py">Demo</a></h3>
 
+https://user-images.githubusercontent.com/77670138/139642959-c229b16f-143b-4e4c-b949-cea535e4ff00.mp4
+
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 [![Streamlit App](https://img.shields.io/badge/Open_in_Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py)
 </div>
