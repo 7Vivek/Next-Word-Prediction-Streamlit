@@ -1,3 +1,13 @@
+---
+title: Next Word Prediction Streamlit
+emoji: 😻
+colorFrom: yellow
+colorTo: red
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
 <div align = "center">
 
 <h2> Next Word Prediction </h2>
