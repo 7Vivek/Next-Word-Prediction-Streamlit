@@ -17,6 +17,7 @@
   
 <h2 align = "center"> 🎬 Project Demo </h2>
 <h3 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py">Demo</a></h3>
+<h3 align = "center"> ✔ Application is hosted on 🤗 Hugging Face. You can see the <a href="https://huggingface.co/spaces/7Vivek/Next-Word-Prediction-Streamlit">Demo</a></h3>
 
 https://user-images.githubusercontent.com/77670138/139642959-c229b16f-143b-4e4c-b949-cea535e4ff00.mp4
 
