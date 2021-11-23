@@ -13,8 +13,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/7Vivek/Next-Word-Prediction-Streamlit?color=ffff66)
 ![GitHub language count](https://img.shields.io/github/languages/count/7Vivek/Next-Word-Prediction-Streamlit?color=04e2b5)
   
-<img align = "center" src="https://user-images.githubusercontent.com/77670138/139641162-56be4ae2-204d-49ec-bd06-67f3f59c5530.jpg" style="width:1000px;height:500px;"></img>    
-  
+<img align = "center" src="https://user-images.githubusercontent.com/77670138/143001954-3f2d23ed-5e53-4930-ab66-20e1071c03bc.jpg" style="width:1000px;height:500px;"></img>    
 <h2 align = "center"> 🎬 Project Demo </h2>
 <h3 align = "center"> ✔ Application is hosted on Streamlit. You can see the <a href="https://share.streamlit.io/7vivek/next-word-prediction-streamlit/main/app.py">Demo</a></h3>
 <h3 align = "center"> ✔ Application is hosted on 🤗 Hugging Face. You can see the <a href="https://huggingface.co/spaces/7Vivek/Next-Word-Prediction-Streamlit">Demo</a></h3>
